@@ -14,13 +14,13 @@ Aqui você encontrará exemplos de:
 
 # 📂 Estrutura do Repositório
 qa-portfolio/
-├── README.md ← descrição do portfólio
-├── cases/ ← casos de teste formais (E05)
-│ └── CT-Parabank-login.md
-├── exploratorio/ ← artefatos de teste exploratório (E06)
-│ └── sessao-kabum-cadastro.md
-└── bug-reports/ ← bug reports profissionais (E07 / E08)
-└── BUG-001-kabum-cadastro.md
+├── README.md                     ← descrição do portfólio
+├── cases/                        ← casos de teste formais (E05)
+│   └── CT-Parabank-login.md
+├── exploratorio/                 ← artefatos de teste exploratório (E06)
+│   └── sessao-kabum-cadastro.md
+└── bug-reports/                  ← bug reports profissionais (E07 / E08)
+    └── BUG-001-kabum-cadastro.md
 
 ---
 
